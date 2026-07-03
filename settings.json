@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "reaper",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "isasSMP.aternos.me",
+    "ip": "isasSMP.aternos.me:28654",
     "port": 28654,
     "version": "1.21.1"
   },
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "follow to isas.smp !",
         "I like to play Minecraft!"
       ]
     },
