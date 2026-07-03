@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "isasSMP.aternos.me:28654",
+    "ip": "isasSMP.aternos.me",
     "port": 28654,
     "version": "1.21.1"
   },
